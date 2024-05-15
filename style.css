@@ -1,0 +1,94 @@
+
+
+.header_company{
+    background-color: silver;
+    padding: 15px;
+    border-bottom: 1px solid;
+}
+.container{
+    display: grid;
+    grid-template-columns: 2fr 1fr; /* Divide el contenedor en dos columnas iguales */
+    gap: 10px; /* Añade espaciado entre las columnas */
+}
+
+.columns{
+    padding: 10px; /* Añade espaciado dentro de las columnas */
+    border: 1px solid black; /* Añade un borde para visualizar las columnas */
+
+}
+#list_items{
+    background-color: teal;
+    
+}
+#cart{
+    background-color: skyblue;
+    
+}
+.header_list_items{
+    display: grid;
+    grid-template-columns: 4fr 3fr 2fr 2fr; /* Divide el contenedor en dos columnas iguales */
+    
+}
+.item_details{
+    padding: 10px; /* Añade espaciado dentro de las columnas */
+    border: 1px solid white; /* Añade un borde para visualizar las columnas */
+    text-align: center;
+    color: white;
+
+}
+.list_items{
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr 1fr 2fr 2fr; /* Divide el contenedor en dos columnas iguales */
+    
+}
+.header_carrito{
+    margin: 20px;
+    font-size: x-large;
+}
+.footer_carrito{
+    margin: 20px;
+    font-size: large;
+    
+}
+
+.Item_Resta :hover{
+    background-color: red;
+}
+#boton_Actualizar{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
+    width: 100px;
+}
+
+#boton_Borrar{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
+    width: 100px;
+}
+
+.footer_list_items{
+    text-align: right;
+}
+#boton_Actualizar:hover{
+    background-color: yellow;
+    }
+#micarrito{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr; /* Divide el contenedor en dos columnas */
+    gap: 10px; /* Añade espaciado entre las columnas */
+    padding: 20px;
+    
+}
+#Total_Carrito{
+    display: grid;
+    grid-template-columns: 3fr 1fr; /* Divide el contenedor en dos columnas */
+    gap: 10px; /* Añade espaciado entre las columnas */
+    margin: 20px;
+    font-size: xx-large;
+}
+.precio_total_articulo{
+    
+    text-align: right;
+}

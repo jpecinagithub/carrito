@@ -1,0 +1,35 @@
+{
+  "currency": "€",
+  "products": [
+    {
+      "SKU": "0K3QOSOV4V",
+      "title": "iFhone 13 Pro",
+      "price": "938"
+    },
+    {
+      "SKU": "TGD5XORY1L",
+      "title": "Cargador",
+      "price": "49.50"
+    },
+    {
+      "SKU": "IOKW9BQ9F3",
+      "title": "Funda de piel",
+      "price": "80"
+    },
+    {
+      "SKU": "IOKWT8Q9F3",
+      "title": "Camiseta del Athletic de Bilbao",
+      "price": "125.50"
+    },
+    {
+      "SKU": "IOKWT8UO93",
+      "title": "Bicicleta de montana",
+      "price": "2840.00"
+    },
+    {
+      "SKU": "IOK488UO93",
+      "title": "Marcapasos acuático",
+      "price": "512.00"
+    }
+  ]
+}
